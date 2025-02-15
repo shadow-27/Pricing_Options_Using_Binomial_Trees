@@ -17,6 +17,7 @@ This project implements a Python function to price European and American Call/Pu
 Ensure you have Python 3 installed along with the necessary libraries:
 ```bash
 pip install numpy
+pip install time
 ```
 
 ## Function Signature
